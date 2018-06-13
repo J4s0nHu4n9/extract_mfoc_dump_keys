@@ -1,4 +1,4 @@
-# extract_mfoc_dump_keys
+# Extract MFOC Dump Keys
 
 從 mfoc 轉存出來的卡片(或晶片)資料中，提取各扇區(sector)的金鑰(共32個，16個扇區，分A、B金鑰)。
 
